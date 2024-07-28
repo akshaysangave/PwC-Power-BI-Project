@@ -20,3 +20,25 @@ In this project, we focus on creating a Power BI dashboard for the telecom indus
 
 ![2-3](https://github.com/user-attachments/assets/7c6fd362-224a-4a21-bb5f-93972924684c)
 
+# Diversity and Inclusion Analysis
+
+This project, based on a dataset provided by PwC, focuses on analyzing and visualizing diversity and inclusion metrics within an organization. It includes handling data cleaning processes, such as addressing missing values and standardizing data formats. The analysis covers gender distribution, hiring practices, retention rates, and promotion rates for both men and women. The findings highlight the organization's commitment to fostering an inclusive work environment and provide actionable recommendations to further enhance diversity and inclusion efforts.
+
+![3-1](https://github.com/user-attachments/assets/5bdc1a59-ddca-4e49-b782-3d6d3735ab2a)
+
+![3-2](https://github.com/user-attachments/assets/f7dd0ebc-3fae-4221-99de-b680ce1f3f85)
+
+![3-3](https://github.com/user-attachments/assets/a1daf6de-720a-4139-8d54-0afe091cfc27)
+
+# Conclusion
+
+# 1. Enhanced Operational Insights:
+   Across all tasks, the analyses provided actionable insights into key performance metrics. The Call Center Trend Analysis highlighted areas for improvement in call handling efficiency and customer satisfaction. By addressing high abandonment rates and refining resolution strategies, the call center can significantly enhance operational efficiency and customer experience.
+
+# 2. Strategic Customer Retention:
+   The Customer Churn and Risk Analysis revealed crucial insights into customer demographics and retention rates. Identifying the revenue at risk due to churn and understanding the factors influencing customer departures enabled the formulation of targeted retention strategies. Implementing a continuous feedback loop and personalized engagement approaches can help reduce churn and increase customer loyalty.
+
+# 3. Commitment to Diversity and Inclusion:
+   The Diversity and Inclusion Analysis underscored the organization's dedication to fostering an inclusive work environment. By analyzing gender distribution, hiring practices, retention rates, and promotion rates, the organization can strengthen leadership development programs, maintain transparent communication, and implement inclusive policies. Conducting periodic diversity audits ensures ongoing commitment to diversity and inclusion, promoting a thriving and equitable workplace for all employees.
+
+
